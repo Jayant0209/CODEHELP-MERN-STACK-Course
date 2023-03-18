@@ -1,2 +1,2 @@
 # CODEHELP-MERN-STACK-Course
-I am sharing my experiences, all notes, projects, cheatsheets of full stack web development course by love babbar.
+I am sharing my experience, all notes, projects, and cheatsheet of Full Stack Web Development Course by Love Babbar.
